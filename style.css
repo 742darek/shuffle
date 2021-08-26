@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+body{
+    background-color: rgb(244,245,251)
+}
+h1{
+=======
 body
 {
     background-color: rgb(240,241,249);
@@ -6,13 +12,45 @@ body
 }
 h1{
     font-family: 'Roboto', sans-serif;
+>>>>>>> 80d5ae53c6e8b147df67703268f5f46fe162092d
     font-size: 56px;
 }
 h3{
     font-family: 'Rubik', sans-serif;
 }
+h3.description
+{
+    font-family: 'Rubik', sans-serif;
+    color:rgb(104, 180, 206)
+}
+h3.description2{
+    font-size:18px;
+    color:rgb(104, 180, 206)
+}
+button{
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 4px;
+    border: none;
+    background-color: rgb(245, 178, 8);
+    color:white
+}
 .pre{
+<<<<<<< HEAD
     color: rgb(49,79,254)
+=======
+    font-family: 'Roboto', sans-serif;
+    color:rgb(49,79,254)
+}
+.after{
+    font-family: 'Roboto', sans-serif;
+    color:rgb(26,35,126)
+}
+#title1{
+    font-size:24px;
+>>>>>>> 0bb5e54cb7011929533759241c04bf9dc897d91f
 }
 .after{
     color:rgb(26,35,126)
@@ -27,14 +65,47 @@ h3.description
     float: left;
     margin-left: 100px;
     margin-top : 50px;
+<<<<<<< HEAD
+    width: 600px;
+    float:left;
+=======
     padding-top: 100px;
     width: 600px;
+>>>>>>> 80d5ae53c6e8b147df67703268f5f46fe162092d
 }
 .polowa2
 {
+    background-color: rgb(255,255,255);
     margin-top: 50px;
+<<<<<<< HEAD
     background-color: rgb(242,244,251);
     float: left;
+=======
+<<<<<<< HEAD
+    float:left;
+    width: 300px;
+    padding-left:25px;
+    padding-top:25px;
+    margin-left: 25px;
+}
+#margin_top
+{
+    margin-top:100px;
+}
+#margin_top2
+{
+    margin-top:0px;
+}
+/* .padd{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+#padd{
+    padding-left: 25px;
+    padding-top: 25px;
+} */
+=======
+>>>>>>> 0bb5e54cb7011929533759241c04bf9dc897d91f
 }
 .action{
     padding-right: 15px;
@@ -46,3 +117,4 @@ h3.description
     background-color: rgb(245, 178, 8);
     color:white
 }
+>>>>>>> 80d5ae53c6e8b147df67703268f5f46fe162092d
